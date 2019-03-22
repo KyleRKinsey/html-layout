@@ -1,0 +1,21 @@
+#top {
+  background-color: rgb(68, 67, 67);
+  height: 150px;
+}
+#left {
+  background-color: rgb(207, 204, 204);
+  width: 150px;
+  height: 600px;
+  float: left;
+}
+#right {
+  background-color: rgb(207, 204, 204);
+  width: 150px;
+  height: 600px;
+  float: right;
+}
+#bottom {
+  background-color: black;
+  height: 150px;
+  margin-top: 450px;
+}
